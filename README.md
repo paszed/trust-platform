@@ -509,7 +509,7 @@ docs/
 - Trust Analytics
 - Plugin Marketplace
 - Multi-Tenant Support
-[118;1:3u- Distributed Processing
+- Distributed Processing
 - Bootstrapper Integration
 - Agent Integration
 
